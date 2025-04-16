@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descAlign=62" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=300&section=header&text=Welcome!&desc=Passionate%20Developer%20%7C%20Open%20Source%20Enthusiast&animation=fadeIn&fontColor=fff&fontSize=90&fontAlignY=30&descAlignY=55&descSize=22" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;UI/UX+Aficionado;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
@@ -44,209 +44,265 @@ const developer = {
 
 > 🌟 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-<details>
-<summary><h2>📊 GitHub Stats & Activity</h2></summary>
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Skills & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vue,nodejs,express,django,mongo,postgres,redis,docker,kubernetes,aws,firebase,git,vscode,figma&perline=9" />
+</div>
+
+<div align="center">
+  <h3>⚡ Core Technologies</h3>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+        <br>Redux
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+        <br>Webpack
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+        <br>Nginx
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=ajayrajthakur111&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ajayrajthakur111&theme=tokyonight&border_radius=10&ring=38BDAE&fire=FF5F9E&currStreakLabel=38BDAE&dates=9fa8da" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>📊 Most Used Languages & Contribution Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajthakur111&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ajayrajthakur111&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repos" />
+</div>
+
+---
+
+## 🏆 Projects Showcase
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ajayrajthakur111/ajayrajthakur111/main/project_showcase.gif" alt="Projects Showcase" width="700" />
+</div>
+
+<div align="center">
+  <br>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 1</h3>
+        <p align="center">
+          <a href="https://github.com/ajayrajthakur111/project1" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajayrajthakur111&repo=project1&theme=react&bg_color=1a1b27&title_color=38bdae&icon_color=bf91f3&hide_border=true" alt="Project 1" />
+          </a>
+          <br><br>
+          <a href="https://github.com/ajayrajthakur111/project1" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20Repository-0076D6?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://project1-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-FF5F9E?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p>A full-stack application built with React, Node.js, and MongoDB that allows users to organize and manage their tasks efficiently.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 2</h3>
+        <p align="center">
+          <a href="https://github.com/ajayrajthakur111/project2" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajayrajthakur111&repo=project2&theme=react&bg_color=1a1b27&title_color=38bdae&icon_color=bf91f3&hide_border=true" alt="Project 2" />
+          </a>
+          <br><br>
+          <a href="https://github.com/ajayrajthakur111/project2" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20Repository-0076D6?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://project2-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-FF5F9E?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p>A React-based dashboard with beautiful charts and analytics features for data visualization.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 3</h3>
+        <p align="center">
+          <a href="https://github.com/ajayrajthakur111/project3" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajayrajthakur111&repo=project3&theme=react&bg_color=1a1b27&title_color=38bdae&icon_color=bf91f3&hide_border=true" alt="Project 3" />
+          </a>
+          <br><br>
+          <a href="https://github.com/ajayrajthakur111/project3" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20Repository-0076D6?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://project3-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-FF5F9E?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p>An e-commerce platform built with Next.js, Tailwind CSS, and Stripe for secure payments.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 4</h3>
+        <p align="center">
+          <a href="https://github.com/ajayrajthakur111/project4" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ajayrajthakur111&repo=project4&theme=react&bg_color=1a1b27&title_color=38bdae&icon_color=bf91f3&hide_border=true" alt="Project 4" />
+          </a>
+          <br><br>
+          <a href="https://github.com/ajayrajthakur111/project4" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View%20Repository-0076D6?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://project4-demo.com" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-Live%20Preview-FF5F9E?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p>A mobile-first web application for tracking fitness goals and workout plans using React Native and Firebase.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌿 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ajayrajthakur111/ajayrajthakur111/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayrajthakur111&custom_title=Contribution%20Graph&bg_color=1a1b27&color=38bdae&line=bf91f3&point=FF5F9E&hide_border=true" alt="Activity Graph" width="94%" />
+</div>
+
+---
+
+## 🎧 Vibing To
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
+  </a>
+</div>
+
+---
+
+## 📝 Latest Blog Posts
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ajayrajthakur111&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" />
+      <td width="50%">
+        <img src="/api/placeholder/800/400" alt="Blog post thumbnail" width="100%" />
+        <h3>How to Build a Modern React App with TypeScript</h3>
+        <p>Learn how to set up a React project with TypeScript, best practices, and advanced patterns for type-safe development.</p>
+        <a href="https://yourblog.com/post1">Read More →</a>
       </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajthakur111&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=8" />
+      <td width="50%">
+        <img src="/api/placeholder/800/400" alt="Blog post thumbnail" width="100%" />
+        <h3>The Art of Clean Code: Principles and Practices</h3>
+        <p>Discover the principles of writing clean, maintainable code that will make you a better developer.</p>
+        <a href="https://yourblog.com/post2">Read More →</a>
       </td>
     </tr>
   </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayrajthakur111&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajayrajthakur111&theme=radical" alt="Profile Summary" width="100%" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayrajthakur111&theme=redical&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
-</div>
-</details>
-
-<details>
-<summary><h2>🛠️ My Tech Arsenal</h2></summary>
-
-<h3>👨‍💻 Programming & Markup Languages</h3>
-
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
-</p>
-
-<h3>🌐 Frontend Development</h3>
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
-</p>
-
-<h3>🔙 Backend Development</h3>
-
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white">
-  <img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=apollo-graphql&logoColor=white">
-</p>
-
-<h3>🗄️ Databases & Cloud Hosting</h3>
-
-<p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white">
-</p>
-
-<h3>🛠️ DevOps & Tools</h3>
-
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
-</p>
-</details>
-
-<details>
-<summary><h2>🏆 GitHub Trophies</h2></summary>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajayrajthakur111&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
-</details>
-
-<details>
-<summary><h2>📌 Pinned Repositories</h2></summary>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajayrajthakur111&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajayrajthakur111&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajayrajthakur111&repo=project3&theme=radical&bg_color=0D1117&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajayrajthakur111&repo=project4&theme=radical&bg_color=0D1117&hide_border=true" />
-</div>
-</details>
-
-## 🌿 Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ajayrajthakur111/ajayrajthakur111/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-## 🎧 Now Playing
+---
+
+## 🤝 Connect & Support
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-  </a>
-  <br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5" alt="Recently Played Spotify Songs" />
-</div>
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ajayrajthakur111&theme=radical&hide_border=true&bg_color=0D1117" alt="Wakatime Stats" />
-</div>
-
-## 💻 Coding Metrics
-
-<!--START_SECTION:waka-->
-```text
-JavaScript    █████████▓░░░░░░░░░░░░░░   38.25 % 
-TypeScript    █████████▒░░░░░░░░░░░░░░   37.15 % 
-Python        ██▒░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-CSS           █▓░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-HTML          █▒░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-```
-<!--END_SECTION:waka-->
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Modern React App with TypeScript](https://yourblog.com/post1)
-- [The Art of Clean Code: Principles and Practices](https://yourblog.com/post2)
-- [Getting Started with Next.js and Tailwind CSS](https://yourblog.com/post3)
-- [Effective State Management in React Applications](https://yourblog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Support Me
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ajayrajthakur111">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ajayrajthakur111&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ajayrajthakur111" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dajayrajthakur111&longCache=true" alt="GitHub Followers" />
-  </a>
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
+  <h3>Let's Connect</h3>
   <a href="https://linkedin.com/in/ajayrajthakur111">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/ajayrajthakur111">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://youtube.com/@ajayrajthakur111">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+    <img src="https://img.icons8.com/doodle/40/000000/twitter--v2.png" alt="Twitter" />
   </a>
   <a href="https://instagram.com/ajayrajthakur111">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@ajayrajthakur111">
+    <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube" />
   </a>
   <a href="https://dev.to/ajayrajthakur111">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo" />
+    <img src="https://img.icons8.com/doodle/40/000000/blog--v2.png" alt="Dev.to" />
+  </a>
+  <br>
+  
+  <h3>Support My Work</h3>
+  <a href="https://www.buymeacoffee.com/ajayrajthakur111">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=ajayrajthakur111&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/ajayrajthakur111">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="50" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>💭 Programming Quote of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F9E,100:8A2BE2&height=120&section=footer" width="100%" />
 </div>
