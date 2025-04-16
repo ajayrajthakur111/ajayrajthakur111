@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ajayrajthakur111
           # These outputs work with both light and dark mode
           outputs: |
             dist/github-contribution-grid-snake.svg
