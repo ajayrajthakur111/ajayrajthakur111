@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs at midnight every day
+    - cron: "0 0 * * 0"  # Runs at midnight every day
   workflow_dispatch:     # Allows manual triggering
 
 # Set permissions for the GITHUB_TOKEN
