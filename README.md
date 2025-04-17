@@ -108,7 +108,7 @@ const developer = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png" alt="Snake animation"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=ajayrajthakur111&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff" alt="GitHub Stats" />
 </div>
 
 <br>
