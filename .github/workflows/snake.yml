@@ -6,8 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
-    name: Generate SVG Snake Animation
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -20,7 +19,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to output branch
+      - name: Deploy to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
