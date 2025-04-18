@@ -104,7 +104,7 @@ const developer = {
     </tr>
   </table>
 </div>
-
+---
 ## 📈 GitHub Analytics
 
 <div align="center">
